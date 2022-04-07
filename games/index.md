@@ -7,6 +7,7 @@ title: Games
     <div class="col"></div>
     <div class="col text-start">
         <ul>
+            <li><a href="fireboywatergirl/">Fireboy and watergirl</a></li>
             <li><a href="3d.city/">3D City</a></li>
             <li><a href="3Dchess/">3DChess</a></li>
             <li><a href="2048/">2048</a></li>
