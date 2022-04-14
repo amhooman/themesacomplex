@@ -65,7 +65,6 @@ title: Games
             <li><a href="portal2flash/">Portal 2: Flash Edition</a></li>
             <li><a href="pottyracers/">Pottyracers (experimental)</a></li>
             <li><a href="radius-raid/">Radius Raid</a></li>
-            <li><a href="redball/">RedBall</a></li>
             <li><a href="RiddleSchool/">Riddle School Games</a></li>
             <li><a href="sansfight/">Sans Fight</a></li>
             <li><a href="sleeping-beauty/">Sleeping Beauty</a></li>
@@ -86,12 +85,10 @@ title: Games
             <li><a href="xx142-b2.exe/">XX142-bB.EXE</a></li>
             <li><a href="zelda3d/">The Legend of Zelda: But 3D</a></li>
             <li><a href="badtimesim/">bad time simulator</a></li>
-            <li><a href="dadnme/">dad n' me</a></li>
             <li><a href="sugarsugar/">sugarsugar</a></li>
             <li><a href="snailbob/">snail bob</a></li>
             <li><a href="tinytactics/">tiny tactics</a></li>
             <li><a href="3dmari0/">3d mari0</a></li>
-            <li><a href="pvz/">plants vs zombies</a></li>
             <li><a href="interactivebuddy/">interactive buddy</a></li>
             <li><a href="learntofly/">learn to fly</a></li>
             <li><a href="spewer/">spewer</a></li>
@@ -106,7 +103,6 @@ title: Games
             <li><a href="interactivebuddy/">Interactive Buddy</a></li>
             <li><a href="learntofly/">Learn to Fly (experimental)</a></li>
             <li><a href="spewer/">Spewer (experimental)</a></li>
-            <li><a href="cursor10/">Cursor*10</a></li>
             <li><a href="retro-bowl/">Retro Bowl</a></li>
             <li><a href="ritz/">Ritz</a></li>
             <li><a href="osu/">osu! (experimental)</a></li>
@@ -123,7 +119,9 @@ title: Games
             <li><a href="blueball/">Blueball's Cool Adventure</a></li>
             <li><a href="pico8/">Pico-8 Games</a></li>
             <li><a href="celeste/">Celeste Games</a></li>
-            <li><a href="egg_ascent/">Egg Ascent</a><p style="color:##EF883C";>[MESACOMPLEX SEMIEXCLUSIVE!]</p></li>
+            <li><a href="crimson/">The Crimson Room</a></li>
+            <li><a href="spelunky/">Spelunky Classic</a></li>
+            <li><a href="egg_ascent/">Egg Ascent</a><p>[MESACOMPLEX SEMIEXCLUSIVE!]</p></li>
             <br>
             <li><a href="https://forum.mesacomplex.tk/game-suggestions-o35trixv">Suggest Games!</a></li>
         </ul>
@@ -134,3 +132,7 @@ title: Games
 <br>
 <p>if something is tagged "experimental," it may not work, or is unstable.</p>
 <br>
+<footer>
+<p>n1swordslashers chat!</p>
+ <embed src="chat2/" width="900" height="700" allowfullscreen>
+</footer>
