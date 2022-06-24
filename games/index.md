@@ -37,7 +37,7 @@ if a game has a grey color, it was suggested by a user.</p>
             <button onclick="window.location.href='dino/'">Chrome Dino Run</button>
             <button onclick="window.location.href='duckhunt/'">Duck Hunt</button>
             <button onclick="window.location.href='electricman2/'">Electricman 2</button>
-            <button class="exp" onclick="window.location.href='DuckLife/'">Duck Life</button>
+            <button class="exp" onclick="window.location.href='Duckife/'">Duck Life</button>
             <button onclick="window.location.href='duckhunt/'">Duck Life 2<button>
             <button onclick="window.location.href='fbf/'">Factory Balls Forever</button>
             <button onclick="window.location.href='fnaf/'">Five Nights at Freddys</button>
